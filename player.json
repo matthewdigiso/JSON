@@ -1,0 +1,79 @@
+{
+    "players": [
+        {
+            "fullName": "Tom Seaver",
+            "position": "pitcher",
+            "primaryTeam": "New York Mets",
+            "jerseyNumber": 41,
+            "birthDate": "1944-11-17",
+            "throws": "right-handed",
+            "hallOfFameYear": 1992,
+            "careerStats": {
+                "wins": 311,
+                "losses": 205,
+                "era": 2.86,
+                "strikeouts": 3640
+            },
+            "teams": [
+                "Mets",
+                "Reds",
+                "White Sox",
+                "Red Sox"
+            ],
+            "awards": [
+                "1969 World Series",
+                "Cy Young Award three times (1969, 1973, 1975)"
+            ]
+        },
+        {
+            "fullname": "Willie Mays",
+            "PrimaryTeam": "San Francisco Giants",
+            "jerseyNumber": 24,
+            "birthDate": "1931-05-06",
+            "throws": "right-handed",
+            "hallOfFameYear": 1979,
+            "careerStats": {
+                "battingAverage": 0.301,
+                "homeRuns": 660,
+                "RBIs": 3293,
+                "runsBattedIn": 1909
+            },
+            "teams": [
+                "Giants",
+                "San Francisco Giants",
+                "New York Mets"
+            ],
+            "awards": [
+                "24-time All-Star",
+                "2-time NL MVP (1954, 1965)",
+                "12 Gold Glove Award",
+                "World Series Champion (1954)"
+            ]
+        },
+        {
+            "fullname": "Hank Aaron",
+            "PrimaryTeam": "Atlanta Braves",
+            "jerseyNumber": 44,
+            "birthDate": "1934-02-05",
+            "throws": "right-handed",
+            "hallOfFameYear": 1982,
+            "careerStats": {
+                "hits": 3771,
+                "homeRuns": 755,
+                "runsBattedIn": 2297,
+                "battingAverage": 0.305
+            },
+            "teams": [
+                "Milwaukee Braves",
+                "Atlanta Braves",
+                "Milwaukee Brewers"
+            ],
+            "awards": [
+                "MVP Award (1957)",
+                "World Series Champion (1957)",
+                "3 Gold Glove Award",
+                "25x All-Star"
+            ]
+        }
+    ]
+}
